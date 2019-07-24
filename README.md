@@ -1,4 +1,4 @@
-# sms_portal
+# Flutter Init
 
 A new Flutter application.
 
